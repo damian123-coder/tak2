@@ -1,0 +1,174 @@
+body
+{
+    
+    background-color: #8D8885;
+    font-family: Verdana;
+    color: white;
+    
+}
+
+#container
+{
+    
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#quote
+{
+    font-size: 40px;
+    color:white;
+}
+#menu
+{
+    
+    background-color: #303030;
+    margin-top: 20px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.option
+{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+}
+
+.option:hover
+{
+    background-color: #000000;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+#topbar
+{
+    background-color: #128870;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    height: 170px;
+}
+
+#topbarL
+{
+    float: left;
+    padding: 20px;
+    width: 138px;
+    text-align: center;
+    border-right: 2px dotted #cccccc;
+}
+
+.bigtitle
+{
+    font-size: 32px;
+    font-weight: 900;
+}
+
+#topbarR
+{
+    float: left;  
+    padding: 20px;
+    width: 760px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.sidebarL
+{
+    float: left;
+    padding: 20px;
+    width: 138px;
+    text-align: center;
+}
+
+.sidebarR
+{
+    float: left;  
+    padding: 20px;
+    width: 760px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+#content
+{
+    
+    min-width: 920px;
+    float: left;
+    padding: 40px;
+    background-color: #3A3737;
+    text-align: justify;
+    
+}
+
+#footer
+{
+    
+    clear: both; 
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+.dottedline
+{
+    height: 5px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-bottom: 2px dotted #ffffff;
+}
+
+.text
+{
+    font-size: 15px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:link
+{
+    color: white;
+}
+
+a:visited
+{
+    color: white;
+}
+a:active
+{
+    color: white;
+}
+
+img
+{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#galeria
+{
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+
+.gatunek
+{
+    font-size:20px;
+    
+}
